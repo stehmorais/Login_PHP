@@ -1,0 +1,11 @@
+Aluno: orlando | Sobrenome: sales | Ra: 46457657 |
+no: Neide | Sobrenome: Morales | Ra: 56575 |
+Aluno: Neide | Sobrenome: Morales | Ra: 56575 |
+Nome:orlando | Sobrenome:sales | Ra:46457657
+Nome:orlando | Sobrenome:sales | Ra:46457657
+Nome:mariazinha | Sobrenome:lorota | Ra:5476576
+Nome:groselha | Sobrenome:tabuao | Ra:5465765768
+Nome:madalena | Sobrenome:veracruz | Ra:547567
+Nome: maricliuda | Sobrenome: chamles | Ra: 546547
+Nome: maricliuda | Sobrenome: chamles | Ra: 546547
+Nome: maricliuda | Sobrenome: chamles | Ra: 546547
